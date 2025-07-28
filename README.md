@@ -26,3 +26,8 @@
       <td>Profile</td>
       <td>ProfileATMCashDeposits</td>
       <td>ATM cash deposits</td>
+      <td>ProfileForeignATMCashWithdrawals</td>
+      <td>Foreign ATM withdrawals</td>
+    </tr>
+  </tbody>
+</table>
